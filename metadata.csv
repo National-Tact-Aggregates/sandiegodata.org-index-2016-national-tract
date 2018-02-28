@@ -1,0 +1,24 @@
+Declare,metatab-latest
+Title,National Tract Aggregate National Index
+Description,THe national index file for the NTA
+Identifier,a915265e-a826-4cf4-a248-88b020aa4560
+Name,sandiegodata.org-index-2016-national-tract-1
+Dataset,index
+Origin,sandiegodata.org
+Time,2016
+Space,national
+Grain,tract
+Version,1
+Created,2018-02-28T16:45:55
+Modified,2018-02-28T16:49:53
+
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@sandiegodata.org,San Diego Regional Data Library,http://sandiegodata.org
+
+Section,Documentation,Title,Description,
+Note,,,,
+
+Section,Resources,Name,Description,
+Datafile,http://example.com/data.csv,,,
+
+Section,Schema,DataType,AltName,Description
